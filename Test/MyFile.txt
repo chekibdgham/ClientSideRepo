@@ -1,2 +1,3 @@
 this is my first example.
 this file is edited by someone.
+this is the bug fix.
